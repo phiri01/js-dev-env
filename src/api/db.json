@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 84029384,
+      "firstName": "Marlin",
+      "lastName": "Schultz",
+      "email": "Muriel12@gmail.com"
+    },
+    {
+      "id": 93161343,
+      "firstName": "Leonard",
+      "lastName": "Jaskolski",
+      "email": "Kaela_Breitenberg@hotmail.com"
+    },
+    {
+      "id": 6035745,
+      "firstName": "Precious",
+      "lastName": "Oberbrunner",
+      "email": "Alayna.Skiles23@yahoo.com"
+    },
+    {
+      "id": 94316237,
+      "firstName": "Lacy",
+      "lastName": "Lesch",
+      "email": "Modesta0@hotmail.com"
+    }
+  ]
+}
